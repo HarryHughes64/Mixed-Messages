@@ -54,7 +54,8 @@ Project is: _complete_
 ## Room for Improvement
 
 
-- Log the message as one single string, rather than 3 seperate strings.
+- Log the message as one single string, rather than 3 seperate strings. HI
+
 
 
 
